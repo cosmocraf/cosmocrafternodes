@@ -1,0 +1,7 @@
+{
+  "name": "cosmocrafternodes",
+  "website": "https://github.com/cosmocraf/cosmocrafternodes",
+  "description": "Hi! I operate a node across several decentralized networks. My role involves maintaining the stability and security of the node by validating transactions, updating software, and monitoring the network to quickly address any potential issues.",
+  "logo": "https://raw.githubusercontent.com/cosmocraf/cosmocrafternodes/main/cosmocrafnodes.png",
+  "twitter": "https://x.com/CosmoCraftya"
+}
